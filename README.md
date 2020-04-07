@@ -4,5 +4,5 @@
 My lab is complete
 
 ###### How to compile
-1. gcc -0 piku piku.s
+1. gcc -O piku piku.s
 2. ./piku
