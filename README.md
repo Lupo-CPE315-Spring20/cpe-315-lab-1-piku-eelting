@@ -17,3 +17,10 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+<h3>Easton Elting<h3>
+---------------------
+My lab is complete
+
+<h6>How to compile<h6>
+1. gcc -0 piku piku.s
+1. ./piku
